@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1641305206
-ModificationTime: 1684200144
+ModificationTime: 1684239673
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -77,14 +77,14 @@ MarkAttachClasses: 1
 DEI: 91125
 ChainSub2: coverage "LambeBar contextual 3" 0 0 0 1
  1 1 0
-  Coverage: 14 bar_below_wide
+  Coverage: 9 bar_below
   BCoverage: 10 lambe alda
  1
   SeqLookup: 0 "Single Substitution lookup 14"
 EndFPST
 ChainSub2: coverage "LambeBar contextual 2" 0 0 0 1
  1 2 0
-  Coverage: 14 bar_below_wide
+  Coverage: 9 bar_below
   BCoverage: 501 tripledot_above tripledot_below doubledot_above doubledot_below amatixe unutixe tecco_above tecco_below tecco_above_double tecco_below_double rightcurl_above rightcurl_below leftcurl_above leftcurl_below rightcurl_above_double leftcurl_above_double bar_above bar_below tengwa_tilde tehta_breve tehta_grave yanta_above tripledot_above_inverted tehta_dotinside tehta_circumflex tehta_caron lsd_marker bar_above bar_below tengwa_tilde bar_above_narrow bar_below_narrow tengwa_tilde_narrow lambe_bar_below
   BCoverage: 10 lambe alda
  1
@@ -92,7 +92,7 @@ ChainSub2: coverage "LambeBar contextual 2" 0 0 0 1
 EndFPST
 ChainSub2: coverage "LambeBar contextual 1" 0 0 0 1
  1 3 0
-  Coverage: 14 bar_below_wide
+  Coverage: 9 bar_below
   BCoverage: 501 tripledot_above tripledot_below doubledot_above doubledot_below amatixe unutixe tecco_above tecco_below tecco_above_double tecco_below_double rightcurl_above rightcurl_below leftcurl_above leftcurl_below rightcurl_above_double leftcurl_above_double bar_above bar_below tengwa_tilde tehta_breve tehta_grave yanta_above tripledot_above_inverted tehta_dotinside tehta_circumflex tehta_caron lsd_marker bar_above bar_below tengwa_tilde bar_above_narrow bar_below_narrow tengwa_tilde_narrow lambe_bar_below
   BCoverage: 501 tripledot_above tripledot_below doubledot_above doubledot_below amatixe unutixe tecco_above tecco_below tecco_above_double tecco_below_double rightcurl_above rightcurl_below leftcurl_above leftcurl_below rightcurl_above_double leftcurl_above_double bar_above bar_below tengwa_tilde tehta_breve tehta_grave yanta_above tripledot_above_inverted tehta_dotinside tehta_circumflex tehta_caron lsd_marker bar_above bar_below tengwa_tilde bar_above_narrow bar_below_narrow tengwa_tilde_narrow lambe_bar_below
   BCoverage: 10 lambe alda
@@ -101,7 +101,7 @@ ChainSub2: coverage "LambeBar contextual 1" 0 0 0 1
 EndFPST
 ChainSub2: coverage "LambeBar contextual 0" 0 0 0 1
  1 4 0
-  Coverage: 14 bar_below_wide
+  Coverage: 9 bar_below
   BCoverage: 501 tripledot_above tripledot_below doubledot_above doubledot_below amatixe unutixe tecco_above tecco_below tecco_above_double tecco_below_double rightcurl_above rightcurl_below leftcurl_above leftcurl_below rightcurl_above_double leftcurl_above_double bar_above bar_below tengwa_tilde tehta_breve tehta_grave yanta_above tripledot_above_inverted tehta_dotinside tehta_circumflex tehta_caron lsd_marker bar_above bar_below tengwa_tilde bar_above_narrow bar_below_narrow tengwa_tilde_narrow lambe_bar_below
   BCoverage: 501 tripledot_above tripledot_below doubledot_above doubledot_below amatixe unutixe tecco_above tecco_below tecco_above_double tecco_below_double rightcurl_above rightcurl_below leftcurl_above leftcurl_below rightcurl_above_double leftcurl_above_double bar_above bar_below tengwa_tilde tehta_breve tehta_grave yanta_above tripledot_above_inverted tehta_dotinside tehta_circumflex tehta_caron lsd_marker bar_above bar_below tengwa_tilde bar_above_narrow bar_below_narrow tengwa_tilde_narrow lambe_bar_below
   BCoverage: 501 tripledot_above tripledot_below doubledot_above doubledot_below amatixe unutixe tecco_above tecco_below tecco_above_double tecco_below_double rightcurl_above rightcurl_below leftcurl_above leftcurl_below rightcurl_above_double leftcurl_above_double bar_above bar_below tengwa_tilde tehta_breve tehta_grave yanta_above tripledot_above_inverted tehta_dotinside tehta_circumflex tehta_caron lsd_marker bar_above bar_below tengwa_tilde bar_above_narrow bar_below_narrow tengwa_tilde_narrow lambe_bar_below
@@ -146,7 +146,7 @@ EndFPST
 ChainSub2: coverage "WidthAdjust contextual 3" 0 0 0 1
  1 1 0
   Coverage: 32 bar_above bar_below tengwa_tilde
-  BCoverage: 160 ando umbar anga ungwe anto ampa anca unque nuumen malta noldo nwalme ando_ext umbar_ext anga_ext ungwe_ext lambe alda tengwa_mh digit_three digit_six digit_nine
+  BCoverage: 149 ando umbar anga ungwe anto ampa anca unque nuumen malta noldo nwalme ando_ext umbar_ext anga_ext ungwe_ext tengwa_mh digit_three digit_six digit_nine
  1
   SeqLookup: 0 "Single Substitution lookup 5"
 EndFPST
@@ -154,7 +154,7 @@ ChainSub2: coverage "WidthAdjust contextual 2" 0 0 0 1
  1 2 0
   Coverage: 32 bar_above bar_below tengwa_tilde
   BCoverage: 501 tripledot_above tripledot_below doubledot_above doubledot_below amatixe unutixe tecco_above tecco_below tecco_above_double tecco_below_double rightcurl_above rightcurl_below leftcurl_above leftcurl_below rightcurl_above_double leftcurl_above_double bar_above bar_below tengwa_tilde tehta_breve tehta_grave yanta_above tripledot_above_inverted tehta_dotinside tehta_circumflex tehta_caron lsd_marker bar_above bar_below tengwa_tilde bar_above_narrow bar_below_narrow tengwa_tilde_narrow lambe_bar_below
-  BCoverage: 160 ando umbar anga ungwe anto ampa anca unque nuumen malta noldo nwalme ando_ext umbar_ext anga_ext ungwe_ext lambe alda tengwa_mh digit_three digit_six digit_nine
+  BCoverage: 149 ando umbar anga ungwe anto ampa anca unque nuumen malta noldo nwalme ando_ext umbar_ext anga_ext ungwe_ext tengwa_mh digit_three digit_six digit_nine
  1
   SeqLookup: 0 "Single Substitution lookup 4"
 EndFPST
@@ -163,7 +163,7 @@ ChainSub2: coverage "WidthAdjust contextual 1" 0 0 0 1
   Coverage: 32 bar_above bar_below tengwa_tilde
   BCoverage: 501 tripledot_above tripledot_below doubledot_above doubledot_below amatixe unutixe tecco_above tecco_below tecco_above_double tecco_below_double rightcurl_above rightcurl_below leftcurl_above leftcurl_below rightcurl_above_double leftcurl_above_double bar_above bar_below tengwa_tilde tehta_breve tehta_grave yanta_above tripledot_above_inverted tehta_dotinside tehta_circumflex tehta_caron lsd_marker bar_above bar_below tengwa_tilde bar_above_narrow bar_below_narrow tengwa_tilde_narrow lambe_bar_below
   BCoverage: 501 tripledot_above tripledot_below doubledot_above doubledot_below amatixe unutixe tecco_above tecco_below tecco_above_double tecco_below_double rightcurl_above rightcurl_below leftcurl_above leftcurl_below rightcurl_above_double leftcurl_above_double bar_above bar_below tengwa_tilde tehta_breve tehta_grave yanta_above tripledot_above_inverted tehta_dotinside tehta_circumflex tehta_caron lsd_marker bar_above bar_below tengwa_tilde bar_above_narrow bar_below_narrow tengwa_tilde_narrow lambe_bar_below
-  BCoverage: 160 ando umbar anga ungwe anto ampa anca unque nuumen malta noldo nwalme ando_ext umbar_ext anga_ext ungwe_ext lambe alda tengwa_mh digit_three digit_six digit_nine
+  BCoverage: 149 ando umbar anga ungwe anto ampa anca unque nuumen malta noldo nwalme ando_ext umbar_ext anga_ext ungwe_ext tengwa_mh digit_three digit_six digit_nine
  1
   SeqLookup: 0 "Single Substitution lookup 3"
 EndFPST
@@ -173,7 +173,7 @@ ChainSub2: coverage "WidthAdjust contextual 0" 0 0 0 1
   BCoverage: 501 tripledot_above tripledot_below doubledot_above doubledot_below amatixe unutixe tecco_above tecco_below tecco_above_double tecco_below_double rightcurl_above rightcurl_below leftcurl_above leftcurl_below rightcurl_above_double leftcurl_above_double bar_above bar_below tengwa_tilde tehta_breve tehta_grave yanta_above tripledot_above_inverted tehta_dotinside tehta_circumflex tehta_caron lsd_marker bar_above bar_below tengwa_tilde bar_above_narrow bar_below_narrow tengwa_tilde_narrow lambe_bar_below
   BCoverage: 501 tripledot_above tripledot_below doubledot_above doubledot_below amatixe unutixe tecco_above tecco_below tecco_above_double tecco_below_double rightcurl_above rightcurl_below leftcurl_above leftcurl_below rightcurl_above_double leftcurl_above_double bar_above bar_below tengwa_tilde tehta_breve tehta_grave yanta_above tripledot_above_inverted tehta_dotinside tehta_circumflex tehta_caron lsd_marker bar_above bar_below tengwa_tilde bar_above_narrow bar_below_narrow tengwa_tilde_narrow lambe_bar_below
   BCoverage: 501 tripledot_above tripledot_below doubledot_above doubledot_below amatixe unutixe tecco_above tecco_below tecco_above_double tecco_below_double rightcurl_above rightcurl_below leftcurl_above leftcurl_below rightcurl_above_double leftcurl_above_double bar_above bar_below tengwa_tilde tehta_breve tehta_grave yanta_above tripledot_above_inverted tehta_dotinside tehta_circumflex tehta_caron lsd_marker bar_above bar_below tengwa_tilde bar_above_narrow bar_below_narrow tengwa_tilde_narrow lambe_bar_below
-  BCoverage: 160 ando umbar anga ungwe anto ampa anca unque nuumen malta noldo nwalme ando_ext umbar_ext anga_ext ungwe_ext lambe alda tengwa_mh digit_three digit_six digit_nine
+  BCoverage: 149 ando umbar anga ungwe anto ampa anca unque nuumen malta noldo nwalme ando_ext umbar_ext anga_ext ungwe_ext tengwa_mh digit_three digit_six digit_nine
  1
   SeqLookup: 0 "Single Substitution lookup 2"
 EndFPST
@@ -3964,7 +3964,7 @@ BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 262144 131072 87381 449839 1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "mkmk_down" "'mkmk' Mark to Mark lookup 1-1" "xhook" "'mark' Mark Positioning lookup 0-1" "TehtaAbove" "'mark' Mark Positioning lookup 0-1" "TehtaBelow" "'mark' Mark Positioning lookup 0-1" "Anchor-3"""  "Anchor-4"""  "Anchor-5"""  "Anchor-6"""  "Anchor-7"""  "Anchor-8"""  "Anchor-9"""  "Anchor-10"""  "Anchor-11"""  "mkmk_up" "'mkmk' Mark to Mark lookup 1-1" "Anchor-13""" 
-BeginChars: 143 143
+BeginChars: 148 143
 
 StartChar: .notdef
 Encoding: 127 -1 0
@@ -6654,128 +6654,114 @@ Encoding: 46 57378 36
 Width: 564
 GlyphClass: 2
 Flags: W
-AnchorPoint: "xhook" 100 0 basechar 0
-AnchorPoint: "TehtaAbove" 360 550 basechar 0
-AnchorPoint: "TehtaBelow" 280 -25 basechar 0
+AnchorPoint: "xhook" 35 0 basechar 0
+AnchorPoint: "TehtaAbove" 320 550 basechar 0
+AnchorPoint: "TehtaBelow" 270 25 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-493 327 m 1,0,-1
- 494 327 l 2,1,2
- 478 327 478 327 368 332 c 0,3,4
- 302 335 302 335 241.5 337.5 c 128,-1,5
- 181 340 181 340 133 340 c 0,6,7
- 96 340 96 340 76.5 334 c 128,-1,8
- 57 328 57 328 47 316.5 c 128,-1,9
- 37 305 37 305 26 290 c 0,10,11
- 22 285 22 285 20 285 c 0,12,13
- 16 285 16 285 8 289 c 0,14,15
- 0 294 0 294 0 297 c 0,16,17
- 22 350 22 350 66 384 c 0,18,19
- 106 416 106 416 169 415 c 0,20,21
- 228 415 228 415 298.5 410.5 c 128,-1,22
- 369 406 369 406 484 406 c 0,23,24
- 532 406 532 406 556.5 406.5 c 128,-1,25
- 581 407 581 407 595.5 409 c 128,-1,26
- 610 411 610 411 627 413 c 1,27,28
- 624 376 624 376 612.5 357.5 c 128,-1,29
- 601 339 601 339 577.5 333 c 128,-1,30
- 554 327 554 327 514 327 c 2,31,-1
- 493 327 l 1,0,-1
-378 374 m 1,32,33
- 332 374 332 374 295 350.5 c 128,-1,34
- 258 327 258 327 230 287.5 c 128,-1,35
- 202 248 202 248 182.5 199.5 c 128,-1,36
- 163 151 163 151 153.5 100 c 128,-1,37
- 144 49 144 49 144 2 c 0,38,39
- 144 -83 144 -83 178.5 -134 c 128,-1,40
- 213 -185 213 -185 286 -185 c 0,41,42
- 339 -185 339 -185 381.5 -157.5 c 128,-1,43
- 424 -130 424 -130 459 -86 c 0,44,45
- 464 -80 464 -80 468 -80 c 0,46,47
- 471 -80 471 -80 480.5 -86 c 128,-1,48
- 490 -92 490 -92 490 -97 c 0,49,50
- 490 -101 490 -101 474.5 -122 c 128,-1,51
- 459 -143 459 -143 430 -168 c 128,-1,52
- 401 -193 401 -193 360.5 -211.5 c 128,-1,53
- 320 -230 320 -230 269 -230 c 0,54,55
- 164 -230 164 -230 108 -170 c 128,-1,56
- 52 -110 52 -110 52 3 c 0,57,58
- 52 71 52 71 72.5 141.5 c 128,-1,59
- 93 212 93 212 134.5 271.5 c 128,-1,60
- 176 331 176 331 238 368 c 128,-1,61
- 300 405 300 405 384 405 c 1,62,-1
- 378 374 l 1,32,33
+338 374 m 5,0,1
+ 292 374 292 374 255 350.5 c 132,-1,2
+ 218 327 218 327 190 287.5 c 132,-1,3
+ 162 248 162 248 142.5 199.5 c 132,-1,4
+ 123 151 123 151 113.5 100 c 132,-1,5
+ 104 49 104 49 104 2 c 4,6,7
+ 104 -83 104 -83 138.5 -134 c 132,-1,8
+ 173 -185 173 -185 246 -185 c 4,9,10
+ 299 -185 299 -185 341.5 -157.5 c 132,-1,11
+ 384 -130 384 -130 419 -86 c 4,12,13
+ 424 -80 424 -80 428 -80 c 4,14,15
+ 431 -80 431 -80 440.5 -86 c 132,-1,16
+ 450 -92 450 -92 450 -97 c 4,17,18
+ 450 -101 450 -101 434.5 -122 c 132,-1,19
+ 419 -143 419 -143 390 -168 c 132,-1,20
+ 361 -193 361 -193 320.5 -211.5 c 132,-1,21
+ 280 -230 280 -230 229 -230 c 4,22,23
+ 169.900390625 -230.37890625 169.900390625 -230.37890625 128.061523438 -205.748046875 c 132,-1,24
+ 86.2216796875 -181.1171875 86.2216796875 -181.1171875 65.98828125 -142.063476562 c 132,-1,25
+ 45.7548828125 -103.009765625 45.7548828125 -103.009765625 38.2978515625 -52.6455078125 c 132,-1,26
+ 30.8408203125 -2.2822265625 30.8408203125 -2.2822265625 35.296875 46.44140625 c 132,-1,27
+ 39.751953125 95.166015625 39.751953125 95.166015625 52.5 141.5 c 5,28,29
+ 99.2548828125 265.435546875 99.2548828125 265.435546875 168.6484375 334.76953125 c 132,-1,30
+ 238.041992188 404.104492188 238.041992188 404.104492188 344 405 c 5,31,-1
+ 338 374 l 5,0,1
+-20.4501953125 358.856445312 m 132,-1,33
+ -23.4501953125 365.35546875 -23.4501953125 365.35546875 -23.4501953125 370.356445312 c 5,34,35
+ 4.548828125 389.35546875 4.548828125 389.35546875 33.5498046875 398.356445312 c 132,-1,36
+ 62.548828125 407.356445312 62.548828125 407.356445312 103.549804688 407.356445312 c 6,37,-1
+ 521.549804688 407.356445312 l 6,38,39
+ 574.548828125 407.356445312 574.548828125 407.356445312 595.549804688 413.356445312 c 4,40,41
+ 598.549804688 412.35546875 598.549804688 412.35546875 601.549804688 405.856445312 c 132,-1,42
+ 604.549804688 399.35546875 604.549804688 399.35546875 604.549804688 394.356445312 c 5,43,44
+ 576.548828125 375.35546875 576.548828125 375.35546875 547.549804688 366.356445312 c 132,-1,45
+ 518.548828125 357.356445312 518.548828125 357.356445312 477.549804688 357.356445312 c 6,46,-1
+ 59.5498046875 357.356445312 l 6,47,48
+ 6.548828125 357.356445312 6.548828125 357.356445312 -14.4501953125 351.356445312 c 4,49,32
+ -17.4501953125 352.35546875 -17.4501953125 352.35546875 -20.4501953125 358.856445312 c 132,-1,33
 EndSplineSet
 Validated: 37
 EndChar
 
 StartChar: alda
 Encoding: 47 57379 37
-Width: 566
+Width: 476
 GlyphClass: 2
 Flags: W
-AnchorPoint: "xhook" 150 0 basechar 0
-AnchorPoint: "TehtaBelow" 280 -75 basechar 0
-AnchorPoint: "TehtaAbove" 360 550 basechar 0
+AnchorPoint: "xhook" 70 0 basechar 0
+AnchorPoint: "TehtaBelow" 200 -75 basechar 0
+AnchorPoint: "TehtaAbove" 280 550 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-473 327 m 1,0,-1
- 434 327 l 2,1,2
- 398 330 398 330 362 332 c 0,3,4
- 302 335 302 335 241.5 337.5 c 128,-1,5
- 181 340 181 340 133 340 c 0,6,7
- 96 340 96 340 76.5 334 c 128,-1,8
- 57 328 57 328 47 316.5 c 128,-1,9
- 37 305 37 305 26 290 c 0,10,11
- 22 285 22 285 20 285 c 0,12,13
- 16 285 16 285 8 289 c 0,14,15
- 0 294 0 294 0 297 c 0,16,17
- 22 350 22 350 66 384 c 0,18,19
- 106 416 106 416 169 415 c 0,20,21
- 228 415 228 415 288.5 410.5 c 128,-1,22
- 349 406 349 406 464 406 c 0,23,24
- 512 406 512 406 536.5 406.5 c 128,-1,25
- 561 407 561 407 575.5 409 c 128,-1,26
- 590 411 590 411 607 413 c 1,27,28
- 604 376 604 376 592.5 357.5 c 128,-1,29
- 581 339 581 339 557.5 333 c 128,-1,30
- 534 327 534 327 494 327 c 2,31,-1
- 473 327 l 1,0,-1
-185 -53 m 1,32,33
- 174 -81 174 -81 174 -107 c 0,34,35
- 174 -145 174 -145 199.5 -172.5 c 128,-1,36
- 225 -200 225 -200 277 -200 c 0,37,38
- 332 -200 332 -200 365 -169.5 c 128,-1,39
- 398 -139 398 -139 398 -90 c 0,40,41
- 398 -55 398 -55 382 -29 c 128,-1,42
- 366 -3 366 -3 340.5 17.5 c 128,-1,43
- 315 38 315 38 286.5 57.5 c 128,-1,44
- 258 77 258 77 232.5 100 c 128,-1,45
- 207 123 207 123 191 153.5 c 128,-1,46
- 175 184 175 184 175 226 c 0,47,48
- 175 276 175 276 199 315.5 c 128,-1,49
- 223 355 223 355 267 378.5 c 128,-1,50
- 311 402 311 402 371 402 c 1,51,-1
- 366 371 l 1,52,53
- 320 371 320 371 285.5 344 c 128,-1,54
- 251 317 251 317 251 264 c 0,55,56
- 251 227 251 227 267.5 200 c 128,-1,57
- 284 173 284 173 309.5 151.5 c 128,-1,58
- 335 130 335 130 364.5 110 c 128,-1,59
- 394 90 394 90 419.5 67 c 128,-1,60
- 445 44 445 44 461.5 14 c 128,-1,61
- 478 -16 478 -16 478 -58 c 0,62,63
- 478 -109 478 -109 451 -148.5 c 128,-1,64
- 424 -188 424 -188 377 -210.5 c 128,-1,65
- 330 -233 330 -233 269 -233 c 0,66,67
- 210 -233 210 -233 170.5 -213.5 c 128,-1,68
- 131 -194 131 -194 112 -164.5 c 128,-1,69
- 93 -135 93 -135 93 -106 c 0,70,71
- 93 -78 93 -78 109 -59.5 c 128,-1,72
- 125 -41 125 -41 148 -41 c 0,73,74
- 166 -41 166 -41 185 -53 c 1,32,33
+105 -53 m 1,0,1
+ 94 -81 94 -81 94 -107 c 0,2,3
+ 94 -145 94 -145 119.5 -172.5 c 0,4,5
+ 150.829101562 -206.286132812 150.829101562 -206.286132812 197 -200 c 0,6,7
+ 237.991210938 -194.418945312 237.991210938 -194.418945312 264.333984375 -182.505859375 c 128,-1,8
+ 290.677734375 -170.592773438 290.677734375 -170.592773438 298.840820312 -152.201171875 c 128,-1,9
+ 307.004882812 -133.809570312 307.004882812 -133.809570312 308.932617188 -115.541015625 c 128,-1,10
+ 310.860351562 -97.2724609375 310.860351562 -97.2724609375 296.956054688 -70.970703125 c 128,-1,11
+ 283.05078125 -44.66796875 283.05078125 -44.66796875 271.727539062 -25.478515625 c 128,-1,12
+ 260.403320312 -6.2880859375 260.403320312 -6.2880859375 235.594726562 22.490234375 c 128,-1,13
+ 210.78515625 51.26953125 210.78515625 51.26953125 197.373046875 65.9462890625 c 128,-1,14
+ 183.961914062 80.6240234375 183.961914062 80.6240234375 159.81640625 105.91015625 c 0,15,16
+ 154.82421875 111.138671875 154.82421875 111.138671875 152.1796875 113.913085938 c 128,-1,17
+ 149.534179688 116.688476562 149.534179688 116.688476562 145.71484375 120.723632812 c 128,-1,18
+ 141.89453125 124.759765625 141.89453125 124.759765625 138.983398438 127.87890625 c 0,19,20
+ 76.60546875 199.241210938 76.60546875 199.241210938 92.302734375 267.3125 c 128,-1,21
+ 108 335.383789062 108 335.383789062 187 378.5 c 0,22,23
+ 231 402 231 402 291 402 c 1,24,-1
+ 286 371 l 1,25,26
+ 240 371 240 371 205.5 344 c 1,27,28
+ 175.965820312 315.1171875 175.965820312 315.1171875 168.649414062 278.466796875 c 128,-1,29
+ 161.333007812 241.81640625 161.333007812 241.81640625 173.622070312 208.442382812 c 128,-1,30
+ 185.912109375 175.068359375 185.912109375 175.068359375 212.763671875 148.760742188 c 0,31,32
+ 256.399414062 106.008789062 256.399414062 106.008789062 285.30078125 72.607421875 c 128,-1,33
+ 314.202148438 39.205078125 314.202148438 39.205078125 337.622070312 -0.6416015625 c 128,-1,34
+ 361.04296875 -40.4873046875 361.04296875 -40.4873046875 364.986328125 -73.728515625 c 128,-1,35
+ 368.930664062 -106.96875 368.930664062 -106.96875 353.026367188 -142.766601562 c 128,-1,36
+ 337.123046875 -178.564453125 337.123046875 -178.564453125 297 -210.5 c 0,37,38
+ 271.5 -230.796875 271.5 -230.796875 232.770507812 -236.241210938 c 128,-1,39
+ 194.041015625 -241.685546875 194.041015625 -241.685546875 157.580078125 -234.9375 c 128,-1,40
+ 121.120117188 -228.189453125 121.120117188 -228.189453125 90.5 -213.5 c 0,41,42
+ 51 -194 51 -194 32 -164.5 c 128,-1,43
+ 13 -135 13 -135 13 -106 c 0,44,45
+ 13 -78 13 -78 29 -59.5 c 128,-1,46
+ 45 -41 45 -41 68 -41 c 0,47,48
+ 86 -41 86 -41 105 -53 c 1,0,1
+-16.29296875 365.188476562 m 128,-1,50
+ -19.29296875 371.6875 -19.29296875 371.6875 -19.29296875 376.688476562 c 1,51,52
+ 8.70703125 395.6875 8.70703125 395.6875 37.70703125 404.688476562 c 128,-1,53
+ 66.7080078125 413.688476562 66.7080078125 413.688476562 107.70703125 413.688476562 c 2,54,-1
+ 425.70703125 413.688476562 l 2,55,56
+ 478.708007812 413.688476562 478.708007812 413.688476562 499.70703125 419.688476562 c 0,57,58
+ 502.70703125 418.6875 502.70703125 418.6875 505.70703125 412.188476562 c 128,-1,59
+ 508.70703125 405.6875 508.70703125 405.6875 508.70703125 400.688476562 c 1,60,61
+ 480.708007812 381.6875 480.708007812 381.6875 451.70703125 372.688476562 c 128,-1,62
+ 422.70703125 363.688476562 422.70703125 363.688476562 381.70703125 363.688476562 c 2,63,-1
+ 63.70703125 363.688476562 l 2,64,65
+ 10.70703125 363.688476562 10.70703125 363.688476562 -10.29296875 357.688476562 c 0,66,49
+ -13.29296875 358.6875 -13.29296875 358.6875 -16.29296875 365.188476562 c 128,-1,50
 EndSplineSet
 Validated: 37
 EndChar
@@ -9324,45 +9310,45 @@ EndChar
 
 StartChar: tengwa_exclamation
 Encoding: 105 57445 82
-Width: 258
+Width: 264
 GlyphClass: 1
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-168.69921875 468.254882812 m 4,0,1
- 160.669921875 434.130859375 160.669921875 434.130859375 150.6328125 390.973632812 c 132,-1,2
- 140.596679688 347.81640625 140.596679688 347.81640625 129.556640625 303.65625 c 132,-1,3
- 118.516601562 259.495117188 118.516601562 259.495117188 109.1484375 222.694335938 c 132,-1,4
- 99.78125 185.893554688 99.78125 185.893554688 93.759765625 164.482421875 c 4,5,6
- 80.376953125 116.307617188 80.376953125 116.307617188 60.3046875 78.837890625 c 132,-1,7
- 40.2314453125 41.3681640625 40.2314453125 41.3681640625 12.7978515625 20.291015625 c 132,-1,8
- -14.6357421875 -0.7861328125 -14.6357421875 -0.7861328125 -52.7744140625 -0.7861328125 c 4,9,10
- -82.8837890625 -0.7861328125 -82.8837890625 -0.7861328125 -100.615234375 12.26171875 c 132,-1,11
- -118.346679688 25.3095703125 -118.346679688 25.3095703125 -118.346679688 44.712890625 c 4,12,13
- -118.346679688 60.1025390625 -118.346679688 60.1025390625 -107.640625 68.80078125 c 132,-1,14
- -96.9345703125 77.4990234375 -96.9345703125 77.4990234375 -82.8837890625 77.4990234375 c 4,15,16
- -69.501953125 77.4990234375 -69.501953125 77.4990234375 -58.126953125 70.80859375 c 5,17,18
- -59.46484375 66.125 -59.46484375 66.125 -60.8037109375 58.4296875 c 132,-1,19
- -62.1416015625 50.7353515625 -62.1416015625 50.7353515625 -62.1416015625 44.0439453125 c 4,20,21
- -62.1416015625 34.6767578125 -62.1416015625 34.6767578125 -58.126953125 27.31640625 c 132,-1,22
- -54.1123046875 19.9560546875 -54.1123046875 19.9560546875 -43.40625 19.9560546875 c 4,23,24
- -24.0029296875 19.9560546875 -24.0029296875 19.9560546875 -9.951171875 49.7314453125 c 132,-1,25
- 4.099609375 79.5068359375 4.099609375 79.5068359375 21.49609375 144.409179688 c 4,26,27
- 35.5478515625 196.599609375 35.5478515625 196.599609375 53.61328125 274.215820312 c 132,-1,28
- 71.6787109375 351.831054688 71.6787109375 351.831054688 95.7666015625 458.21875 c 4,29,30
- 111.825195312 529.8125 111.825195312 529.8125 153.309570312 569.624023438 c 132,-1,31
- 194.793945312 609.435546875 194.793945312 609.435546875 261.03515625 609.435546875 c 4,32,33
- 303.188476562 609.435546875 303.188476562 609.435546875 322.2578125 594.380859375 c 132,-1,34
- 341.327148438 579.326171875 341.327148438 579.326171875 341.327148438 563.267578125 c 4,35,36
- 341.327148438 547.87890625 341.327148438 547.87890625 331.291015625 537.841796875 c 132,-1,37
- 321.25390625 527.805664062 321.25390625 527.805664062 305.865234375 527.805664062 c 4,38,39
- 291.813476562 527.805664062 291.813476562 527.805664062 280.439453125 533.827148438 c 5,40,41
- 282.446289062 541.1875 282.446289062 541.1875 282.446289062 549.216796875 c 4,42,43
- 282.446289062 567.282226562 282.446289062 567.282226562 274.416992188 577.653320312 c 132,-1,44
- 266.387695312 588.024414062 266.387695312 588.024414062 248.991210938 588.024414062 c 4,45,46
- 221.557617188 588.024414062 221.557617188 588.024414062 202.823242188 561.9296875 c 132,-1,47
- 184.087890625 535.834960938 184.087890625 535.834960938 168.69921875 468.254882812 c 4,0,1
+148.69921875 348.254882812 m 0,0,1
+ 140.669921875 314.130859375 140.669921875 314.130859375 130.6328125 270.973632812 c 128,-1,2
+ 120.596679688 227.81640625 120.596679688 227.81640625 109.556640625 183.65625 c 128,-1,3
+ 98.5166015625 139.495117188 98.5166015625 139.495117188 89.1484375 102.694335938 c 128,-1,4
+ 79.78125 65.8935546875 79.78125 65.8935546875 73.759765625 44.482421875 c 0,5,6
+ 60.376953125 -3.6923828125 60.376953125 -3.6923828125 40.3046875 -41.162109375 c 128,-1,7
+ 20.2314453125 -78.6318359375 20.2314453125 -78.6318359375 -7.2021484375 -99.708984375 c 128,-1,8
+ -34.6357421875 -120.786132812 -34.6357421875 -120.786132812 -72.7744140625 -120.786132812 c 0,9,10
+ -102.883789062 -120.786132812 -102.883789062 -120.786132812 -120.615234375 -107.73828125 c 128,-1,11
+ -138.346679688 -94.6904296875 -138.346679688 -94.6904296875 -138.346679688 -75.287109375 c 0,12,13
+ -138.346679688 -59.8974609375 -138.346679688 -59.8974609375 -127.640625 -51.19921875 c 128,-1,14
+ -116.934570312 -42.5009765625 -116.934570312 -42.5009765625 -102.883789062 -42.5009765625 c 0,15,16
+ -89.501953125 -42.5009765625 -89.501953125 -42.5009765625 -78.126953125 -49.19140625 c 1,17,18
+ -79.46484375 -53.875 -79.46484375 -53.875 -80.8037109375 -61.5703125 c 128,-1,19
+ -82.1416015625 -69.2646484375 -82.1416015625 -69.2646484375 -82.1416015625 -75.9560546875 c 0,20,21
+ -82.1416015625 -85.3232421875 -82.1416015625 -85.3232421875 -78.126953125 -92.68359375 c 128,-1,22
+ -74.1123046875 -100.043945312 -74.1123046875 -100.043945312 -63.40625 -100.043945312 c 0,23,24
+ -44.0029296875 -100.043945312 -44.0029296875 -100.043945312 -29.951171875 -70.2685546875 c 128,-1,25
+ -15.900390625 -40.4931640625 -15.900390625 -40.4931640625 1.49609375 24.4091796875 c 0,26,27
+ 15.5478515625 76.599609375 15.5478515625 76.599609375 33.61328125 154.215820312 c 128,-1,28
+ 51.6787109375 231.831054688 51.6787109375 231.831054688 75.7666015625 338.21875 c 0,29,30
+ 91.8251953125 409.8125 91.8251953125 409.8125 133.309570312 449.624023438 c 128,-1,31
+ 174.793945312 489.435546875 174.793945312 489.435546875 241.03515625 489.435546875 c 0,32,33
+ 283.188476562 489.435546875 283.188476562 489.435546875 302.2578125 474.380859375 c 128,-1,34
+ 321.327148438 459.326171875 321.327148438 459.326171875 321.327148438 443.267578125 c 0,35,36
+ 321.327148438 427.87890625 321.327148438 427.87890625 311.291015625 417.841796875 c 128,-1,37
+ 301.25390625 407.805664062 301.25390625 407.805664062 285.865234375 407.805664062 c 0,38,39
+ 271.813476562 407.805664062 271.813476562 407.805664062 260.439453125 413.827148438 c 1,40,41
+ 262.446289062 421.1875 262.446289062 421.1875 262.446289062 429.216796875 c 0,42,43
+ 262.446289062 447.282226562 262.446289062 447.282226562 254.416992188 457.653320312 c 128,-1,44
+ 246.387695312 468.024414062 246.387695312 468.024414062 228.991210938 468.024414062 c 0,45,46
+ 201.557617188 468.024414062 201.557617188 468.024414062 182.823242188 441.9296875 c 128,-1,47
+ 164.087890625 415.834960938 164.087890625 415.834960938 148.69921875 348.254882812 c 0,0,1
 EndSplineSet
 Validated: 1
 EndChar
@@ -10970,6 +10956,10 @@ LayerCount: 2
 Fore
 Refer: 113 57424 N 1 0 0 1 0 -650 2
 Validated: 1048577
+Substitution2: "Single Substitution lookup 14 subtable" lambe_bar_below
+Substitution2: "Single Substitution lookup 13 subtable" lambe_bar_below
+Substitution2: "Single Substitution lookup 12 subtable" lambe_bar_below
+Substitution2: "Single Substitution lookup 11 subtable" lambe_bar_below
 Substitution2: "Single Substitution lookup 9 subtable" bar_below_narrow
 Substitution2: "Single Substitution lookup 8 subtable" bar_below_narrow
 Substitution2: "Single Substitution lookup 7 subtable" bar_below_narrow
@@ -11363,19 +11353,19 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
--377 179.5 m 132,-1,1
- -380 186 -380 186 -380 191 c 5,2,3
- -352 210 -352 210 -323 219 c 132,-1,4
- -294 228 -294 228 -253 228 c 6,5,-1
- -115 228 l 6,6,7
- -62 228 -62 228 -41 234 c 4,8,9
- -38 233 -38 233 -35 226.5 c 132,-1,10
- -32 220 -32 220 -32 215 c 5,11,12
- -60 196 -60 196 -89 187 c 132,-1,13
- -118 178 -118 178 -159 178 c 6,14,-1
- -297 178 l 6,15,16
- -350 178 -350 178 -371 172 c 4,17,0
- -374 173 -374 173 -377 179.5 c 132,-1,1
+-377 229.5 m 132,-1,1
+ -380 236 -380 236 -380 241 c 5,2,3
+ -352 260 -352 260 -323 269 c 132,-1,4
+ -294 278 -294 278 -253 278 c 6,5,-1
+ -115 278 l 6,6,7
+ -62 278 -62 278 -41 284 c 4,8,9
+ -38 283 -38 283 -35 276.5 c 132,-1,10
+ -32 270 -32 270 -32 265 c 5,11,12
+ -60 246 -60 246 -89 237 c 132,-1,13
+ -118 228 -118 228 -159 228 c 6,14,-1
+ -297 228 l 6,15,16
+ -350 228 -350 228 -371 222 c 4,17,0
+ -374 223 -374 223 -377 229.5 c 132,-1,1
 EndSplineSet
 Validated: 1
 EndChar
@@ -12237,10 +12227,6 @@ SplineSet
  -791 -178 -791 -178 -795.5 -172.5 c 128,-1,1
 EndSplineSet
 Validated: 1048577
-Substitution2: "Single Substitution lookup 14 subtable" lambe_bar_below
-Substitution2: "Single Substitution lookup 13 subtable" lambe_bar_below
-Substitution2: "Single Substitution lookup 12 subtable" lambe_bar_below
-Substitution2: "Single Substitution lookup 11 subtable" lambe_bar_below
 EndChar
 
 StartChar: bar_below_narrow
