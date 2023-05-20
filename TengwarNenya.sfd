@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1641305206
-ModificationTime: 1684614267
+ModificationTime: 1684616515
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -10248,9 +10248,9 @@ Encoding: 74 57409 98
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "mkmk_down" -138 -125 mark 0
+AnchorPoint: "mkmk_down" -138 -100 mark 0
 AnchorPoint: "mkmk_down" -188 -375 basemark 0
-AnchorPoint: "TehtaBelow" -138 -125 mark 0
+AnchorPoint: "TehtaBelow" -138 -100 mark 0
 LayerCount: 2
 Fore
 Refer: 101 57412 N 1 0 0 1 -73 -806 2
@@ -10299,8 +10299,8 @@ Width: 0
 GlyphClass: 4
 Flags: W
 AnchorPoint: "mkmk_down" -161 -250 basemark 0
-AnchorPoint: "mkmk_down" -136 -125 mark 0
-AnchorPoint: "TehtaBelow" -136 -125 mark 0
+AnchorPoint: "mkmk_down" -136 -100 mark 0
+AnchorPoint: "TehtaBelow" -136 -100 mark 0
 LayerCount: 2
 Fore
 Refer: 99 57410 N 1 0 0 1 25 -676 2
@@ -10338,9 +10338,9 @@ Encoding: 78 57413 102
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "mkmk_down" -91 -125 mark 0
+AnchorPoint: "mkmk_down" -91 -100 mark 0
 AnchorPoint: "mkmk_down" -116 -250 basemark 0
-AnchorPoint: "TehtaBelow" -91 -125 mark 0
+AnchorPoint: "TehtaBelow" -91 -100 mark 0
 LayerCount: 2
 Fore
 Refer: 101 57412 N 1 0 0 1 0 -676 2
@@ -11274,7 +11274,7 @@ NPUSHB
  23
 CALL
 EndTTInstrs
-AnchorPoint: "mkmk_down" -438 -325 basemark 0
+AnchorPoint: "mkmk_down" -350 -325 basemark 0
 AnchorPoint: "xhook" -350 0 mark 0
 LayerCount: 2
 Fore
