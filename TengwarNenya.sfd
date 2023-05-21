@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1641305206
-ModificationTime: 1684635629
+ModificationTime: 1684697328
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -3959,7 +3959,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 39 14
+WinInfo: 0 31 11
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 262144 131072 87381 449839 1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -11208,8 +11208,8 @@ Encoding: 94 57431 120
 Width: 0
 GlyphClass: 4
 AnchorPoint: "mkmk_down" -133 -275 basemark 0
-AnchorPoint: "mkmk_down" -108 -125 mark 0
-AnchorPoint: "TehtaBelow" -108 -125 mark 0
+AnchorPoint: "mkmk_down" -133 -125 mark 0
+AnchorPoint: "TehtaBelow" -133 -125 mark 0
 LayerCount: 2
 Fore
 SplineSet
