@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1641305206
-ModificationTime: 1684697328
+ModificationTime: 1684726465
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -3959,7 +3959,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 31 11
+WinInfo: 0 39 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 262144 131072 87381 449839 1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -4004,7 +4004,7 @@ Width: 517
 GlyphClass: 2
 Flags: W
 AnchorPoint: "xhook" 300 0 basechar 0
-AnchorPoint: "TehtaBelow" 245 -125 basechar 0 {100-100 -2} {}
+AnchorPoint: "TehtaBelow" 245 -125 basechar 0
 AnchorPoint: "TehtaAbove" 320 550 basechar 0
 LayerCount: 2
 Fore
@@ -10429,8 +10429,8 @@ Width: 0
 GlyphClass: 4
 Flags: W
 AnchorPoint: "mkmk_down" -188 -325 basemark 0
-AnchorPoint: "mkmk_down" -138 -125 mark 0
-AnchorPoint: "TehtaBelow" -138 -125 mark 0
+AnchorPoint: "mkmk_down" -188 -125 mark 0
+AnchorPoint: "TehtaBelow" -188 -125 mark 0
 LayerCount: 2
 Fore
 Refer: 103 57414 N 1 0 0 1 0 -730 2
@@ -10442,9 +10442,9 @@ Encoding: 82 57417 106
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "mkmk_down" -128 -125 mark 0
+AnchorPoint: "mkmk_down" -153 -125 mark 0
 AnchorPoint: "mkmk_down" -178 -325 basemark 0
-AnchorPoint: "TehtaBelow" -128 -125 mark 0
+AnchorPoint: "TehtaBelow" -153 -125 mark 0
 LayerCount: 2
 Fore
 Refer: 104 57416 N 1 0 0 1 0 -730 2
@@ -10694,9 +10694,9 @@ NPUSHB
  24
 CALL
 EndTTInstrs
-AnchorPoint: "mkmk_down" -278 -125 mark 0
+AnchorPoint: "mkmk_down" -328 -125 mark 0
 AnchorPoint: "mkmk_down" -328 -325 basemark 0
-AnchorPoint: "TehtaBelow" -278 -125 mark 0
+AnchorPoint: "TehtaBelow" -328 -125 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10906,30 +10906,30 @@ NPUSHB
 CALL
 EndTTInstrs
 AnchorPoint: "mkmk_down" -256 -325 basemark 0
-AnchorPoint: "mkmk_down" -206 -125 mark 0
-AnchorPoint: "TehtaBelow" -206 -125 mark 0
+AnchorPoint: "mkmk_down" -256 -125 mark 0
+AnchorPoint: "TehtaBelow" -256 -125 mark 0
 LayerCount: 2
 Fore
 SplineSet
--163.5 -64 m 128,-1,1
- -157 -71 -157 -71 -157 -75 c 0,2,3
- -202 -149 -202 -149 -231.5 -189 c 128,-1,4
- -261 -229 -261 -229 -288 -248.5 c 128,-1,5
- -315 -268 -315 -268 -346 -268 c 0,6,7
- -380 -268 -380 -268 -400 -247 c 128,-1,8
- -420 -226 -420 -226 -420 -193 c 256,9,10
- -420 -160 -420 -160 -399 -138.5 c 128,-1,11
- -378 -117 -378 -117 -332 -95 c 0,12,13
- -327 -95 -327 -95 -321.5 -101.5 c 128,-1,14
- -316 -108 -316 -108 -316 -113 c 1,15,16
- -337 -126 -337 -126 -346.5 -138.5 c 128,-1,17
- -356 -151 -356 -151 -356 -166 c 0,18,19
- -356 -182 -356 -182 -346 -193 c 128,-1,20
- -336 -204 -336 -204 -318 -204 c 0,21,22
- -295 -204 -295 -204 -272.5 -181 c 128,-1,23
- -250 -158 -250 -158 -196 -87 c 2,24,-1
- -173 -57 l 2,25,0
- -170 -57 -170 -57 -163.5 -64 c 128,-1,1
+-138.5 -64 m 128,-1,1
+ -132 -71 -132 -71 -132 -75 c 0,2,3
+ -177 -149 -177 -149 -206.5 -189 c 128,-1,4
+ -236 -229 -236 -229 -263 -248.5 c 128,-1,5
+ -290 -268 -290 -268 -321 -268 c 0,6,7
+ -355 -268 -355 -268 -375 -247 c 128,-1,8
+ -395 -226 -395 -226 -395 -193 c 256,9,10
+ -395 -160 -395 -160 -374 -138.5 c 128,-1,11
+ -353 -117 -353 -117 -307 -95 c 0,12,13
+ -302 -95 -302 -95 -296.5 -101.5 c 128,-1,14
+ -291 -108 -291 -108 -291 -113 c 1,15,16
+ -312 -126 -312 -126 -321.5 -138.5 c 128,-1,17
+ -331 -151 -331 -151 -331 -166 c 0,18,19
+ -331 -182 -331 -182 -321 -193 c 128,-1,20
+ -311 -204 -311 -204 -293 -204 c 0,21,22
+ -270 -204 -270 -204 -247.5 -181 c 128,-1,23
+ -225 -158 -225 -158 -171 -87 c 2,24,-1
+ -148 -57 l 2,25,0
+ -145 -57 -145 -57 -138.5 -64 c 128,-1,1
 EndSplineSet
 Validated: 1048577
 EndChar
