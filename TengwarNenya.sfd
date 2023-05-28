@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1641305206
-ModificationTime: 1685277041
+ModificationTime: 1685279910
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -7230,7 +7230,7 @@ SplineSet
  205 284 205 284 207 306 c 1,0,-1
 EndSplineSet
 Validated: 1048577
-Kerns2: 34 -100 "'kern' Horizontal Kerning in Latin lookup 2-1"
+Kerns2: 34 -75 "'kern' Horizontal Kerning in Latin lookup 2-1"
 EndChar
 
 StartChar: uure
