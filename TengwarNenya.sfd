@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1641305206
-ModificationTime: 1685200434
+ModificationTime: 1685277041
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -71,6 +71,7 @@ Lookup: 1 0 0 "Single Substitution lookup 11" { "Single Substitution lookup 11 s
 Lookup: 1 0 0 "Single Substitution lookup 12" { "Single Substitution lookup 12 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 13" { "Single Substitution lookup 13 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 14" { "Single Substitution lookup 14 subtable"  } []
+Lookup: 258 8 0 "'kern' Horizontal Kerning in Latin lookup 2" { "'kern' Horizontal Kerning in Latin lookup 2-1" [150,15,6] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Mark Positioning lookup 0" { "'mark' Mark Positioning lookup 0-1"  } ['mark' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 262 0 0 "'mkmk' Mark to Mark lookup 1" { "'mkmk' Mark to Mark lookup 1-1"  } ['mkmk' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
@@ -6574,6 +6575,7 @@ SplineSet
  -29 -147 -29 -147 -23 -149 c 1,0,1
 EndSplineSet
 Validated: 1048577
+Kerns2: 44 -50 "'kern' Horizontal Kerning in Latin lookup 2-1" 55 -25 "'kern' Horizontal Kerning in Latin lookup 2-1"
 EndChar
 
 StartChar: arda
@@ -6701,6 +6703,7 @@ SplineSet
  -17 352 -17 352 -20 358.5 c 128,-1,34
 EndSplineSet
 Validated: 37
+Kerns2: 39 75 "'kern' Horizontal Kerning in Latin lookup 2-1"
 EndChar
 
 StartChar: alda
@@ -6765,6 +6768,7 @@ SplineSet
  -13 359 -13 359 -16 365.5 c 128,-1,53
 EndSplineSet
 Validated: 1048613
+Kerns2: 39 75 "'kern' Horizontal Kerning in Latin lookup 2-1"
 EndChar
 
 StartChar: silme
@@ -7090,6 +7094,7 @@ SplineSet
  265 304 l 1,0,-1
 EndSplineSet
 Validated: 1048577
+Kerns2: 34 -100 "'kern' Horizontal Kerning in Latin lookup 2-1"
 EndChar
 
 StartChar: hwesta_sindarinwa
@@ -7225,6 +7230,7 @@ SplineSet
  205 284 205 284 207 306 c 1,0,-1
 EndSplineSet
 Validated: 1048577
+Kerns2: 34 -100 "'kern' Horizontal Kerning in Latin lookup 2-1"
 EndChar
 
 StartChar: uure
@@ -7783,6 +7789,7 @@ SplineSet
  452 562 452 562 444 564 c 1,0,1
 EndSplineSet
 Validated: 1048577
+Kerns2: 34 -200 "'kern' Horizontal Kerning in Latin lookup 2-1"
 EndChar
 
 StartChar: tengwa_mh
@@ -11634,7 +11641,7 @@ SplineSet
  -604.94921875 523 -604.94921875 523 -665.1015625 471 c 4,27,0
  -668.147460938 472 -668.147460938 472 -671.573242188 477.5 c 132,-1,1
 EndSplineSet
-Validated: 1572865
+Validated: 1048577
 EndChar
 
 StartChar: hwestatinco
@@ -12288,7 +12295,7 @@ SplineSet
  -614.94921875 -128 -614.94921875 -128 -675.1015625 -180 c 4,27,0
  -678.147460938 -179 -678.147460938 -179 -681.573242188 -173.5 c 132,-1,1
 EndSplineSet
-Validated: 1572865
+Validated: 1048577
 EndChar
 
 StartChar: bar_below_narrow
