@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1641305206
-ModificationTime: 1685284483
+ModificationTime: 1686277987
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -6704,7 +6704,7 @@ SplineSet
  -17 352 -17 352 -20 358.5 c 128,-1,34
 EndSplineSet
 Validated: 37
-Kerns2: 34 50 "'kern' Horizontal Kerning in Latin lookup 2-1" 39 75 "'kern' Horizontal Kerning in Latin lookup 2-1" 41 50 "'kern' Horizontal Kerning in Latin lookup 2-1" 58 25 "'kern' Horizontal Kerning in Latin lookup 2-1"
+Kerns2: 34 50 "'kern' Horizontal Kerning in Latin lookup 2-1" 39 25 "'kern' Horizontal Kerning in Latin lookup 2-1" 41 50 "'kern' Horizontal Kerning in Latin lookup 2-1" 58 25 "'kern' Horizontal Kerning in Latin lookup 2-1"
 EndChar
 
 StartChar: alda
@@ -6769,7 +6769,7 @@ SplineSet
  -13 359 -13 359 -16 365.5 c 128,-1,53
 EndSplineSet
 Validated: 1048613
-Kerns2: 34 50 "'kern' Horizontal Kerning in Latin lookup 2-1" 39 75 "'kern' Horizontal Kerning in Latin lookup 2-1" 58 50 "'kern' Horizontal Kerning in Latin lookup 2-1"
+Kerns2: 34 50 "'kern' Horizontal Kerning in Latin lookup 2-1" 39 25 "'kern' Horizontal Kerning in Latin lookup 2-1" 58 50 "'kern' Horizontal Kerning in Latin lookup 2-1"
 EndChar
 
 StartChar: silme
@@ -6842,52 +6842,44 @@ EndChar
 
 StartChar: silme_nuquerna
 Encoding: 49 57381 39
-Width: 426
+Width: 420
 GlyphClass: 2
 Flags: W
-AnchorPoint: "xhook" 100 400 basechar 0
-AnchorPoint: "TehtaBelow" 260 -125 basechar 0
-AnchorPoint: "TehtaAbove" 260 550 basechar 0
+AnchorPoint: "TehtaBelow" 305 -125 basechar 0
+AnchorPoint: "xhook" 55 300 basechar 0
+AnchorPoint: "TehtaAbove" 240 550 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-206 -42 m 0,0,1
- 182 -75 182 -75 158 -104 c 0,2,3
- 139 -128 139 -128 119 -151 c 0,4,5
- 28 -250 28 -250 -42 -250 c 0,6,7
- -73 -250 -73 -250 -88.5 -234 c 128,-1,8
- -104 -218 -104 -218 -104 -198 c 0,9,10
- -104 -177 -104 -177 -89 -163.5 c 128,-1,11
- -74 -150 -74 -150 -55 -150 c 0,12,13
- -46 -150 -46 -150 -40 -152 c 1,14,15
- -40 -165 -40 -165 -33 -174 c 128,-1,16
- -26 -183 -26 -183 -10 -183 c 0,17,18
- 64 -183 64 -183 185 -7 c 0,19,20
- 210 29 210 29 222 47 c 0,21,22
- 247 83 247 83 269 129 c 128,-1,23
- 291 175 291 175 306 226.5 c 128,-1,24
- 321 278 321 278 320.5 320.5 c 128,-1,25
- 320 363 320 363 293.5 391.5 c 128,-1,26
- 267 420 267 420 213 421 c 0,27,28
- 165 422 165 422 136 393.5 c 128,-1,29
- 107 365 107 365 108 321 c 1,30,31
- 94 304 94 304 69 304 c 0,32,33
- 53 304 53 304 41 314.5 c 128,-1,34
- 29 325 29 325 29 346 c 0,35,36
- 29 372 29 372 52 401.5 c 128,-1,37
- 75 431 75 431 118 452.5 c 128,-1,38
- 161 474 161 474 221 474 c 0,39,40
- 293 474 293 474 334 426 c 0,41,42
- 358 398 358 398 368 363.5 c 128,-1,43
- 378 329 378 329 377.5 297.5 c 128,-1,44
- 377 266 377 266 363.5 226 c 128,-1,45
- 350 186 350 186 336.5 157.5 c 128,-1,46
- 323 129 323 129 297.5 89.5 c 128,-1,47
- 272 50 272 50 258 30 c 128,-1,48
- 244 10 244 10 219 -24 c 0,49,50
- 210 -36 210 -36 206 -42 c 0,0,1
+149 -151 m 0,0,1
+ 58 -250 58 -250 -12 -250 c 0,2,3
+ -43 -250 -43 -250 -58.5 -234 c 128,-1,4
+ -74 -218 -74 -218 -74 -198 c 0,5,6
+ -74 -177 -74 -177 -59 -163.5 c 128,-1,7
+ -44 -150 -44 -150 -25 -150 c 0,8,9
+ -16 -150 -16 -150 -10 -152 c 1,10,11
+ -10 -165 -10 -165 -3 -174 c 128,-1,12
+ 4 -183 4 -183 20 -183 c 0,13,14
+ 97 -183 97 -183 215 -7 c 0,15,16
+ 259.166992188 59.0986328125 259.166992188 59.0986328125 284.584960938 129.729492188 c 128,-1,17
+ 310.002929688 200.361328125 310.002929688 200.361328125 310.5 260.5 c 0,18,19
+ 310 303 310 303 283.5 331.5 c 128,-1,20
+ 257 360 257 360 203 361 c 0,21,22
+ 155 362 155 362 126 333.5 c 128,-1,23
+ 97 305 97 305 98 261 c 1,24,25
+ 84 244 84 244 59 244 c 0,26,27
+ 43 244 43 244 31 254.5 c 128,-1,28
+ 19 265 19 265 19 286 c 0,29,30
+ 19 312 19 312 42 341.5 c 128,-1,31
+ 65 371 65 371 108 392.5 c 128,-1,32
+ 151 414 151 414 211 414 c 0,33,34
+ 283 414 283 414 324 366 c 0,35,36
+ 364 318 364 318 366 254 c 128,-1,37
+ 368 190 368 190 346.5 136.5 c 128,-1,38
+ 325 83 325 83 288 30 c 0,39,40
+ 196 -97 196 -97 149 -151 c 0,0,1
 EndSplineSet
-Validated: 1048609
+Validated: 1572897
 EndChar
 
 StartChar: esse
